@@ -1,0 +1,6 @@
+token:
+   expiration_time: 86400000
+   secret: fuck_you_young_and_again_again_again_make_her_pragnent_token_fuck
+
+gateway:
+  ip: 0.0.0.0
